@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Sergio Andrés Ruiz</h1>
 <h3 align="center">A highly skilled software developer with expertise in Java, Angular, Django, JavaScript and Selenium, along with a strong background in data analytics using Knime and Power BI. Seeking opportunities to contribute my technical skills and analytical acumen to drive impactful solutions in a dynamic software development environment.</h3>
 
-- 🔭 I’m currently working on [GH App](In some momment the link is here)
+- 🔭 I’m currently working on [GH App] https://github.com/saruizh/GHApp.git
 
 - 👯 I’m looking to collaborate on [Landing Page](https://github.com/Karlvolsung88/Claro_Empresas_Negocios.git)
 
